@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @victor-vitorino
+- 👀 I’m interested in finding a job as a software developer.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on a better world. 
+- 📫 How to reach me vitoralgustosp@hotmail.com
